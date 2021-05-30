@@ -2,4 +2,4 @@
 a = input("Enter your name: ")
 
 # Printing Output
-print("Your name is", a, ".")
+print("Your name is %s." % a)
