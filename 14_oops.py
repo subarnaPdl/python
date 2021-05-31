@@ -1,4 +1,4 @@
-class Details():
+class Details:
 
     # Following function works without calling it.
     def __init__(self, id):
