@@ -20,3 +20,7 @@ print(dict.get("class"))
 se = {1, "Subarna", 3, (1, 2), 1}
 se.add(10)  # Adds 10 to the set
 print(se)
+
+# se.pop(2)    # Pop cannot be used for set because the items in the set are not indexed.
+se.remove(3)  # Removes 3 from the set
+print(se)

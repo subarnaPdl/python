@@ -3,6 +3,7 @@ a = 0
 while a < 5:
     a += 1
     print(a)
+# Else is executed when the loop ends
 else:
     print("End of the loop")
 
@@ -12,4 +13,3 @@ list = ["Subarna", 18, "Mars", True]
 a = 0
 while a < len(list):
     print(list[a])
-    a += 1
