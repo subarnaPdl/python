@@ -13,7 +13,8 @@ print(greet[4])
 print(len(greet))
 
 # Slicing the string from start
-print(greet[0:3]) #Contains letter from 0th position but not from 3rd position
+# Contains letter from 0th position but not from 3rd position
+print(greet[0:3])
 
 # Slicing the string from end
 print(greet[-4:])

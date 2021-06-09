@@ -17,8 +17,8 @@ class location:
     # But we prefer following method over method 2;
     # Method 3:
     @classmethod
-    def changecity(self, city):
-        self.city = city
+    def changecity(cls, city):
+        cls.city = city
 
 
 a = location()
