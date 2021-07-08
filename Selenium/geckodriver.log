@@ -1,0 +1,498 @@
+1625716532430	geckodriver	INFO	Listening on 127.0.0.1:52320
+1625716535603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileFeiZ61"
+1625716543267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileFeiZ61\\search.json.mozlz4", (void 0)))
+1625716564670	Marionette	INFO	Listening on port 52328
+1625716565197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625716579856	Marionette	INFO	Stopped listening on port 52328
+1625717403042	geckodriver	INFO	Listening on 127.0.0.1:52610
+1625717406109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileYVdkqb"
+1625717410396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileYVdkqb\\search.json.mozlz4", (void 0)))
+1625717417643	Marionette	INFO	Listening on port 52618
+1625717419028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625717455339	Marionette	INFO	Stopped listening on port 52618
+1625717619546	geckodriver	INFO	Listening on 127.0.0.1:52735
+1625717622562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilenAHcHL"
+1625717624709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilenAHcHL\\search.json.mozlz4", (void 0)))
+1625717632975	Marionette	INFO	Listening on port 52743
+1625717633393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625717653501	Marionette	INFO	Stopped listening on port 52743
+[Parent 3852, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1625718088616	geckodriver	INFO	Listening on 127.0.0.1:52982
+1625718092287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileXZL7Z9"
+1625718097137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileXZL7Z9\\search.json.mozlz4", (void 0)))
+1625718114762	Marionette	INFO	Listening on port 52991
+1625718115589	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625718137295	Marionette	INFO	Stopped listening on port 52991
+1625718289346	geckodriver	INFO	Listening on 127.0.0.1:53128
+1625718292417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileVZ1DYr"
+1625718295423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileVZ1DYr\\search.json.mozlz4", (void 0)))
+1625718301908	Marionette	INFO	Listening on port 53136
+1625718303255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625718359817	Marionette	INFO	Stopped listening on port 53136
+and: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileXxuYUf"
+1625718330064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileXxuYUf\\search.json.mozlz4", (void 0)))
+1625718339208	Marionette	INFO	Listening on port 53212
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625718340817	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625718362182	Marionette	INFO	Stopped listening on port 53212
+1625718376944	geckodriver	INFO	Listening on 127.0.0.1:53279
+1625718380141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilerJJ7ci"
+1625718382798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilerJJ7ci\\search.json.mozlz4", (void 0)))
+1625718390558	Marionette	INFO	Listening on port 53288
+1625718391724	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625718435005	Marionette	INFO	Stopped listening on port 53288
+ileBYpvAp"
+1625718433822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileBYpvAp\\search.json.mozlz4", (void 0)))
+1625718440953	Marionette	INFO	Listening on port 53361
+1625718441368	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625718463781	Marionette	INFO	Stopped listening on port 53361
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625718468926	geckodriver	INFO	Listening on 127.0.0.1:53432
+1625718471981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileUANW7y"
+1625718473835	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileUANW7y\\search.json.mozlz4", (void 0)))
+1625718480147	Marionette	INFO	Listening on port 53440
+1625718480679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625718538056	Marionette	INFO	Stopped listening on port 53440
+1625723445110	geckodriver	INFO	Listening on 127.0.0.1:54359
+1625723448204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilerNALD1"
+1625723460657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilerNALD1\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Parent 3940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625723490370	Marionette	INFO	Listening on port 54368
+1625723491142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[Parent 3940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iyDa4/yd/l/en_US/osJJXuVX5ff.js?_nc_x=Ij3Wp8lg5Kz, line 19: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/45AdOPu2tVi.js?_nc_x=Ij3Wp8lg5Kz, line 6: Script terminated by timeout at:
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/45AdOPu2tVi.js?_nc_x=Ij3Wp8lg5Kz:6:83
+a@https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/45AdOPu2tVi.js?_nc_x=Ij3Wp8lg5Kz:7:247
+get@https://static.xx.fbcdn.net/rsrc.php/v3/yT/r/45AdOPu2tVi.js?_nc_x=Ij3Wp8lg5Kz:9:176
+i@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/DpH0Un_Rrf4.js?_nc_x=Ij3Wp8lg5Kz:24:479
+e@https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/DpH0Un_Rrf4.js?_nc_x=Ij3Wp8lg5Kz:24:853
+_addSectionItems/<@https://static.xx.fbcdn.net/rsrc.php/v3iYXl4/y4/l/en_US/BBz6H5wqJYZ.js?_nc_x=Ij3Wp8lg5Kz:13:9635
+_addSectionItems@https://static.xx.fbcdn.net/rsrc.php/v3iYXl4/y4/l/en_US/BBz6H5wqJYZ.js?_nc_x=Ij3Wp8lg5Kz:13:9589
+_setupSectionsMenu@https://static.xx.fbcdn.net/rsrc.php/v3iYXl4/y4/l/en_US/BBz6H5wqJYZ.js?_nc_x=Ij3Wp8lg5Kz:13:10245
+_handlePageLoad@https://static.xx.fbcdn.net/rsrc.php/v3iYXl4/y4/l/en_US/BBz6H5wqJYZ.js?_nc_x=Ij3Wp8lg5Kz:13:7292
+init@https://static.xx.fbcdn.net/rsrc.php/v3iYXl4/y4/l/en_US/BBz6H5wqJYZ.js?_nc_x=Ij3Wp8lg5Kz:13:2267
+a</c.$12/q<@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:208:2505
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:57:9951
+c@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:57:10655
+I@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:44:2605
+D@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:44:1337
+F@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:44:1475
+N/<@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:44:4561
+N@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:44:4584
+a.__d/<@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:44:9319
+applyWithGuard@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:57:9951
+d@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:287:2252
+a.__d@https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/jFDzOqyOojc.js?_nc_x=Ij3Wp8lg5Kz:44:9374
+@https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/EOh7pWy0De_.js?_nc_x=Ij3Wp8lg5Kz:12:4
+
+console.error: "stylesheets: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yJ/l/0,cross/pPo_Vr1oVvM.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+console.error: "stylesheets: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yJ/l/0,cross/pPo_Vr1oVvM.css?_nc_x=Ij3Wp8lg5Kz, using system principal instead."
+JavaScript error: resource://devtools/server/actors/page-style.js, line 570: TypeError: node is null
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child8849/pagestyle43 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child8849/pagestyle43 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iyDa4/yd/l/en_US/osJJXuVX5ff.js?_nc_x=Ij3Wp8lg5Kz, line 19: unreachable code after return statement
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child11500/pagestyle50 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+[Parent 3940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child11500/pagestyle50 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getUsedFontFaces'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 367))
+console.error: "Could not get the list of font families" (new Error("Protocol error (TypeError): node is null from: server0.conn0.child11500/pagestyle50 (resource://devtools/server/actors/page-style.js:367:24)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+console.error: "stylesheets: fetch failed for https://static.xx.fbcdn.net/rsrc.php/v3/yJ/l/0,cross/pPo_Vr1oVvM.css?_nc_x=ZAMOd-tlgP7, using system principal instead."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625723896247	Marionette	INFO	Stopped listening on port 54368
+1625723930006	geckodriver	INFO	Listening on 127.0.0.1:54590
+1625723933119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileeQag4B"
+1625723940122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileeQag4B\\search.json.mozlz4", (void 0)))
+1625723958158	Marionette	INFO	Listening on port 54598
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625723959423	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+1625723970758	Marionette	INFO	Stopped listening on port 54598
+1625723986927	geckodriver	INFO	Listening on 127.0.0.1:54687
+1625723989955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileEv5GLS"
+1625723991689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileEv5GLS\\search.json.mozlz4", (void 0)))
+1625724000720	Marionette	INFO	Listening on port 54697
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625724095691	Marionette	INFO	Stopped listening on port 54697
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilepeHGha"
+1625724007495	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilepeHGha\\search.json.mozlz4", (void 0)))
+1625724017112	Marionette	INFO	Listening on port 54738
+1625724018256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625724095693	Marionette	INFO	Stopped listening on port 54738
+1625724893713	geckodriver	INFO	Listening on 127.0.0.1:60411
+1625724897149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilenL5zwm"
+1625724904244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilenL5zwm\\search.json.mozlz4", (void 0)))
+1625724921890	Marionette	INFO	Listening on port 60419
+1625724922497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625724929250	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_FAILURE
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 228: TypeError: grip is undefined
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 228: TypeError: grip is undefined
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child4/customhighlighter180 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child4/customhighlighter180 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Error while calling actor 'customhighlighter's method 'show'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize]"
+console.error: ({})
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 365: Error: Protocol error (NS_ERROR_NOT_AVAILABLE): Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDOMWindowUtils.getScrollbarSize] from: server0.conn0.child4/customhighlighter180 (resource://devtools/shared/layout/utils.js:608:0)
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1625725149891	Marionette	INFO	Stopped listening on port 60419
+1625725248002	geckodriver	INFO	Listening on 127.0.0.1:60545
+1625725251007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilePNkIy5"
+1625725253143	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilePNkIy5\\search.json.mozlz4", (void 0)))
+1625725260986	Marionette	INFO	Listening on port 60554
+1625725261070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625725267717	Marionette	INFO	Stopped listening on port 60554
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625725278250	geckodriver	INFO	Listening on 127.0.0.1:60610
+1625725281289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilea7vD0w"
+1625725282316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilea7vD0w\\search.json.mozlz4", (void 0)))
+1625725289412	Marionette	INFO	Listening on port 60619
+1625725289875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625725294269	Marionette	INFO	Stopped listening on port 60619
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625725313593	geckodriver	INFO	Listening on 127.0.0.1:60704
+1625725316639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilekY9uaj"
+1625725319574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilekY9uaj\\search.json.mozlz4", (void 0)))
+1625725328442	Marionette	INFO	Listening on port 60714
+1625725329783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625725334896	Marionette	INFO	Stopped listening on port 60714
+[Parent 5724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625725347215	geckodriver	INFO	Listening on 127.0.0.1:60792
+1625725350247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileSmU5IT"
+1625725352799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileSmU5IT\\search.json.mozlz4", (void 0)))
+1625725361230	Marionette	INFO	Listening on port 60800
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625725362212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker24, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3738:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3648:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 103))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625726394488	Marionette	INFO	Stopped listening on port 60800
+1625726397694	geckodriver	INFO	Listening on 127.0.0.1:61086
+e to send/recv, messages will be lost
+
+[Parent 992, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1625726416834	geckodriver	INFO	Listening on 127.0.0.1:61094
+1625726420241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofile50G4Cg"
+1625726437726	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofile50G4Cg\\search.json.mozlz4", (void 0)))
+1625726458350	Marionette	INFO	Listening on port 61102
+1625726459099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NS_ERROR_FAILURE
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+1625726654434	Marionette	INFO	Stopped listening on port 61102
+1625726690356	geckodriver	INFO	Listening on 127.0.0.1:61264
+1625726693674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileGQ48l7"
+1625726696841	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileGQ48l7\\search.json.mozlz4", (void 0)))
+1625726703888	Marionette	INFO	Listening on port 61272
+1625726704430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[Parent 5352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625726841615	Marionette	INFO	Stopped listening on port 61272
+1625726848985	geckodriver	INFO	Listening on 127.0.0.1:61388
+1625726851914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileygiC6H"
+1625726861368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileygiC6H\\search.json.mozlz4", (void 0)))
+1625726868283	Marionette	INFO	Listening on port 61397
+1625726868717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1625727154271	Marionette	INFO	Stopped listening on port 61397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625727159908	geckodriver	INFO	Listening on 127.0.0.1:61525
+1625727162890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileUj2Rat"
+1625727165555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileUj2Rat\\search.json.mozlz4", (void 0)))
+1625727172302	Marionette	INFO	Listening on port 61533
+1625727172788	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5D0001,name=PIdleScheduler::Msg_IdleTime) Channel error: cannot send/recv
+
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625727965903	Marionette	INFO	Stopped listening on port 61533
+xists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileRK3ARr\\search.json.mozlz4", (void 0)))
+1625727491521	Marionette	INFO	Listening on port 61707
+1625727491777	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 952))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:952:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1616:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1430:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1501:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1616:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+1625727952150	Marionette	INFO	Stopped listening on port 61707
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625728080262	geckodriver	INFO	Listening on 127.0.0.1:61914
+1625728083322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileq9R1zq"
+1625728086731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileq9R1zq\\search.json.mozlz4", (void 0)))
+1625728095320	Marionette	INFO	Listening on port 61922
+1625728095735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625728172868	Marionette	INFO	Stopped listening on port 61922
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileJGJkwt"
+1625728167033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileJGJkwt\\search.json.mozlz4", (void 0)))
+1625728173976	Marionette	INFO	Listening on port 62018
+1625728174557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+console.log: WebExtensions: reset-default-search: starting.1625728678057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messagesconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file1625728689454	Marionette	INFO	Stopped listening on port 62018
+
+###!!! [Child][RunMessage] Error: Channel cl1625728691609	Marionette	INFO	Listening on port 62185
+1625728692131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[Parent 4224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625728877067	Marionette	INFO	Stopped listening on port 62185
+ground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileew8xWi"
+1625728865049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileew8xWi\\search.json.mozlz4", (void 0)))
+1625728872021	Marionette	INFO	Listening on port 62317
+1625728872680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625729017810	Marionette	INFO	Stopped listening on port 62311625729018250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileEdf3Qz"
+1625729019252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileEdf3Qz\\search.json.mozlz4", (void 0)))
+1625729025504	Marionette	INFO	Listening on port 62427
+1625729026328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625729174934	Marionette	INFO	Stopped listening on port 62427
+1625729650492	geckodriver	INFO	Listening on 127.0.0.1:62688
+1625729654025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilehESZKH"
+1625729659390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilehESZKH\\search.json.mozlz4", (void 0)))
+1625729679338	Marionette	INFO	Listening on port 62698
+1625729680477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+[Parent 2400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Parent 2400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625730241187	Marionette	INFO	Stopped listening on port 62698
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5046: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625729975648	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_FAILURE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625730296013	Marionette	INFO	Stopped listening on port 62829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625730374008	geckodriver	INFO	Listening on 127.0.0.1:62998
+1625730377493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofile4DM4kK"
+1625730382081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofile4DM4kK\\search.json.mozlz4", (void 0)))
+[Parent 4652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1625730395752	Marionette	INFO	Listening on port 63006
+1625730396344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625730684311	Marionette	INFO	Stopped listening on port 63006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625730724108	geckodriver	INFO	Listening on 127.0.0.1:63131
+1625730727074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofiledoH7OO"
+1625730730046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofiledoH7OO\\search.json.mozlz4", (void 0)))
+1625730736510	Marionette	INFO	Listening on port 63139
+1625730737310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625730827638	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625730983367	Marionette	INFO	Stopped listening on port 63139
+1625731118266	geckodriver	INFO	Listening on 127.0.0.1:63330
+1625731121375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofileWyQQi7"
+1625731126356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofileWyQQi7\\search.json.mozlz4", (void 0)))
+1625731141215	Marionette	INFO	Listening on port 63339
+1625731141774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1625731290504	Marionette	INFO	Stopped listening on port 63339
+5731206441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SUBARN~1\\AppData\\Local\\Temp\\rust_mozprofilesn0Tsa"
+1625731209081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Subarna Poudel\\AppData\\Local\\Temp\\rust_mozprofilesn0Tsa\\search.json.mozlz4", (void 0)))
+1625731218786	Marionette	INFO	Listening on port 63432
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1625731219950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625731229910	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625731230483	Marionette	INFO	Stopped listening on port 63432
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_FAILURE
